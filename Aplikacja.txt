@@ -4,3 +4,7 @@
         System.out.println("Kliknij na przycisk zaloguj");
 a to zmiana żeby zobaczyć zmiany
     }
+ public void przypomnijhaslo() {
+        System.out.println("Przypomnij haslo");
+        
+}
